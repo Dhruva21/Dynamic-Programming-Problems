@@ -1,5 +1,5 @@
 class Solution:
-    def cherryPickup(self, grid: List[List[int]]) -> int:
+    def cherryPickup(self, grid) -> int:
         # populate all combinations of paths
         possible_paths = [[1,0,1,0], [0,1,0,1], [1,0,0,1], [0,1,1,0]]
         def recursive(grid, r1, c1, r2, c2, n, memo):

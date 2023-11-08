@@ -1,5 +1,5 @@
 class Solution:
-    def isThereAPath(self, grid: List[List[int]]) -> bool:
+    def isThereAPath(self, grid) -> bool:
         
         def recursion(i, j, n, m, summ, memo):
             if (i, j, summ) in memo:

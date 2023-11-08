@@ -1,5 +1,5 @@
 class Solution:
-    def calculateMinimumHP(self, dungeon: List[List[int]]) -> int:
+    def calculateMinimumHP(self, dungeon) -> int:
         
         def recursive(x, y, dungeon, n, m, memo):
             if (x, y) in memo:
