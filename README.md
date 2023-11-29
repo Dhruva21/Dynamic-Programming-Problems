@@ -9,3 +9,4 @@ All the problems related to DP
 7. LC152. Maximum Product Subarray (Medium): https://leetcode.com/problems/maximum-product-subarray/
 8. Added Recursion Problem --> Parens
 9. LC1980. Find Unique Binary String (Medium): https://leetcode.com/problems/find-unique-binary-string/ 
+10. LC5. Longest Palindromic substring (Medium): https://leetcode.com/problems/longest-palindromic-substring/
